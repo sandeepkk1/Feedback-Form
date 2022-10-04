@@ -1,0 +1,62 @@
+body{
+  background:green;
+  font-family:sans-serif;
+
+}
+.container{
+  background:;
+}
+.tect-center{
+  color: #CDF0EA;
+
+}
+.text-center{
+  color: #CDF0EA;
+  font-size: 30px;
+}
+.mt-4{
+  color: #CDF0EA;
+  font-size: 27px;
+}
+.radio-inline{
+  color:#6FEDD6;
+  font-size: 27px;
+}
+.feed{
+  position:absolute;
+  width: 100%;
+  height: 100%;
+
+}
+.radio-inline{
+  margin: 0px 40px 20px 0px;
+  cursor: pointer;
+}
+label{
+  color: #000;
+
+}
+
+#text{
+  height: 40px;
+  border-radius: 5px;
+  padding-left: 10px;
+  font-size: 40px;
+  border: none;
+  width: 100%;
+  color: #000;
+
+}
+#message{
+  outline: none;
+  border: none;
+  padding: 10px 0px 0px 15px;
+  font-size: 15px;
+  color: #000;
+  border-radius: 5px;
+  width: 100%;
+}
+.name,.email,.phone,.message,.age{
+  color: red;
+
+}
